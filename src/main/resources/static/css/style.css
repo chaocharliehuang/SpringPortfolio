@@ -1,0 +1,19 @@
+.wrapper  {
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.modules {
+	display: flex;
+	justify-content: space-around;
+}
+
+.module {
+	width: 30%;
+}
+
+.module p {
+	padding: 10px;
+	border: 1px solid black;
+}
